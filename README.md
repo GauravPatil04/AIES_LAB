@@ -19,6 +19,11 @@
 ## <ins>`Completed Experiments:`</ins>
 | Sr. No | Title                                     | Status      |
 |--------|-------------------------------------------|-------------|
+|01|Detecting algorithmic bias in hiring dataset|Completed|
+|02|Impact of Data Quality on AI Fairness|Completed|
+|03|Transparency in AI Decision-Making|Completed|
+|09|Case study|Completed|
+
             
 
 ---
